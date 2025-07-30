@@ -1,0 +1,1440 @@
+2025-07-26 01:18:27,303 - INFO - �� Sistema di pulizia automatica avviato
+2025-07-26 01:18:27,303 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 01:18:27,303 - INFO - �� Esecuzione pulizia iniziale...
+2025-07-26 01:18:27,303 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 01:18:27,304 - INFO - ==================================================
+2025-07-26 01:18:27,304 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 01:18:27,640 - INFO -   rullo_triv: 0 documenti
+2025-07-26 01:18:27,669 - INFO -   rullo_sacr: 0 documenti
+2025-07-26 01:18:27,698 - INFO -   rullo_cign: 0 documenti
+2025-07-26 01:18:27,969 - INFO -   seismic_monitoring.seismic_data: 0 documenti
+2025-07-26 01:18:27,969 - INFO -   seismic_monitoring.detection_results: 0 documenti
+2025-07-26 01:18:27,970 - INFO -   seismic_monitoring.triangulation_results: 0 documenti
+2025-07-26 01:18:27,970 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 01:18:27,997 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 01:18:27,997 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 01:18:28,025 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 01:18:28,025 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 01:18:28,053 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 01:18:28,053 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 01:18:28,053 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 01:18:28,081 - INFO -   seismic_data: 0 record vecchi
+2025-07-26 01:18:28,081 - INFO -   ✅ seismic_data: 0 record eliminati
+2025-07-26 01:18:28,109 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 01:18:28,138 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 01:18:28,139 - INFO - �� STATISTICHE DOPO PULIZIA:
+2025-07-26 01:18:28,139 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 01:18:28,166 - INFO -   rullo_triv: 0 documenti
+2025-07-26 01:18:28,194 - INFO -   rullo_sacr: 0 documenti
+2025-07-26 01:18:28,222 - INFO -   rullo_cign: 0 documenti
+2025-07-26 01:18:28,323 - INFO -   seismic_monitoring.seismic_data: 0 documenti
+2025-07-26 01:18:28,323 - INFO -   seismic_monitoring.detection_results: 0 documenti
+2025-07-26 01:18:28,323 - INFO -   seismic_monitoring.triangulation_results: 0 documenti
+2025-07-26 01:18:28,323 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 13:19:01,055 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 13:19:01,056 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 13:19:01,056 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 13:19:01,056 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 13:19:01,056 - INFO - ==================================================
+2025-07-26 13:19:01,056 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:19:01,270 - INFO -   rullo_triv: 133 documenti
+2025-07-26 13:19:01,300 - INFO -   rullo_sacr: 180 documenti
+2025-07-26 13:19:01,329 - INFO -   rullo_cign: 133 documenti
+2025-07-26 13:19:01,555 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 13:19:01,612 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:19:01,612 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 13:19:01,641 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 13:19:01,641 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 13:19:01,674 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 13:19:01,674 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 13:19:01,703 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 13:19:01,703 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 13:19:01,703 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 13:19:01,742 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 13:19:01,742 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 13:19:01,771 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 13:19:01,801 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 13:19:01,801 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 13:19:01,858 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 13:19:01,886 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 13:19:01,887 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:19:01,915 - INFO -   rullo_triv: 133 documenti
+2025-07-26 13:19:01,945 - INFO -   rullo_sacr: 180 documenti
+2025-07-26 13:19:01,974 - INFO -   rullo_cign: 133 documenti
+2025-07-26 13:19:02,003 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 13:19:02,060 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:19:02,060 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 13:28:48,486 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 13:28:48,492 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 13:28:48,492 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 13:28:48,492 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 13:28:48,492 - INFO - ==================================================
+2025-07-26 13:28:48,492 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:28:48,876 - INFO -   rullo_triv: 135 documenti
+2025-07-26 13:28:48,904 - INFO -   rullo_sacr: 182 documenti
+2025-07-26 13:28:48,934 - INFO -   rullo_cign: 135 documenti
+2025-07-26 13:28:49,162 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 13:28:49,225 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:28:49,225 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 13:28:49,266 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 13:28:49,266 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 13:28:49,307 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 13:28:49,307 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 13:28:49,335 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 13:28:49,335 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 13:28:49,335 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 13:28:49,366 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 13:28:49,366 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 13:28:49,408 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 13:28:49,439 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 13:28:49,439 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 13:28:49,608 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 13:28:49,661 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 13:28:49,661 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:28:49,695 - INFO -   rullo_triv: 135 documenti
+2025-07-26 13:28:49,736 - INFO -   rullo_sacr: 182 documenti
+2025-07-26 13:28:49,765 - INFO -   rullo_cign: 135 documenti
+2025-07-26 13:28:49,809 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 13:28:49,878 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:28:49,878 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 13:31:11,391 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 13:31:11,392 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 13:31:11,392 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 13:31:11,392 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 13:31:11,392 - INFO - ==================================================
+2025-07-26 13:31:11,392 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:31:11,603 - INFO -   rullo_triv: 135 documenti
+2025-07-26 13:31:11,631 - INFO -   rullo_sacr: 183 documenti
+2025-07-26 13:31:11,660 - INFO -   rullo_cign: 135 documenti
+2025-07-26 13:31:11,868 - INFO -   monitoring.seismic_monitoring: 18 documenti
+2025-07-26 13:31:11,935 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:31:11,935 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 13:31:11,965 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 13:31:11,965 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 13:31:11,992 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 13:31:11,992 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 13:31:12,027 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 13:31:12,027 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 13:31:12,028 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 13:31:12,057 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 13:31:12,057 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 13:31:12,088 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 13:31:12,116 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 13:31:12,116 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 13:31:12,185 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 13:31:12,214 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 13:31:12,214 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:31:12,254 - INFO -   rullo_triv: 135 documenti
+2025-07-26 13:31:12,283 - INFO -   rullo_sacr: 183 documenti
+2025-07-26 13:31:12,314 - INFO -   rullo_cign: 135 documenti
+2025-07-26 13:31:12,343 - INFO -   monitoring.seismic_monitoring: 18 documenti
+2025-07-26 13:31:12,418 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:31:12,418 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 13:35:06,456 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 13:35:06,456 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 13:35:06,457 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 13:35:06,457 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 13:35:06,457 - INFO - ==================================================
+2025-07-26 13:35:06,457 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:35:06,789 - INFO -   rullo_triv: 135 documenti
+2025-07-26 13:35:06,817 - INFO -   rullo_sacr: 184 documenti
+2025-07-26 13:35:06,852 - INFO -   rullo_cign: 135 documenti
+2025-07-26 13:35:07,080 - INFO -   monitoring.seismic_monitoring: 36 documenti
+2025-07-26 13:35:07,138 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:35:07,138 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 13:35:07,179 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 13:35:07,179 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 13:35:07,214 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 13:35:07,214 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 13:35:07,245 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 13:35:07,245 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 13:35:07,245 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 13:35:07,275 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 13:35:07,275 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 13:35:07,309 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 13:35:07,337 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 13:35:07,337 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 13:35:07,405 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 13:35:07,439 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 13:35:07,439 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 13:35:07,484 - INFO -   rullo_triv: 135 documenti
+2025-07-26 13:35:07,513 - INFO -   rullo_sacr: 184 documenti
+2025-07-26 13:35:07,543 - INFO -   rullo_cign: 135 documenti
+2025-07-26 13:35:07,572 - INFO -   monitoring.seismic_monitoring: 36 documenti
+2025-07-26 13:35:07,639 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 13:35:07,640 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 14:34:00,951 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 14:34:00,951 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 14:34:00,951 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 14:34:00,952 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 14:34:00,952 - INFO - ==================================================
+2025-07-26 14:34:00,952 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:34:01,206 - INFO -   rullo_triv: 146 documenti
+2025-07-26 14:34:01,234 - INFO -   rullo_sacr: 199 documenti
+2025-07-26 14:34:01,262 - INFO -   rullo_cign: 146 documenti
+2025-07-26 14:34:01,481 - INFO -   monitoring.seismic_monitoring: 252 documenti
+2025-07-26 14:34:01,537 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:34:01,538 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 14:34:01,565 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 14:34:01,565 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 14:34:01,593 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 14:34:01,593 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 14:34:01,621 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 14:34:01,621 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 14:34:01,621 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 14:34:01,654 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 14:34:01,654 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 14:34:01,684 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 14:34:01,715 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 14:34:01,715 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 14:34:01,774 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 14:34:01,818 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 14:34:01,819 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:34:01,847 - INFO -   rullo_triv: 146 documenti
+2025-07-26 14:34:01,876 - INFO -   rullo_sacr: 199 documenti
+2025-07-26 14:34:01,905 - INFO -   rullo_cign: 146 documenti
+2025-07-26 14:34:01,936 - INFO -   monitoring.seismic_monitoring: 252 documenti
+2025-07-26 14:34:01,995 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:34:01,995 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 14:38:41,965 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 14:38:41,966 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 14:38:41,966 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 14:38:41,966 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 14:38:41,966 - INFO - ==================================================
+2025-07-26 14:38:41,966 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:38:42,195 - INFO -   rullo_triv: 146 documenti
+2025-07-26 14:38:42,231 - INFO -   rullo_sacr: 201 documenti
+2025-07-26 14:38:42,259 - INFO -   rullo_cign: 146 documenti
+2025-07-26 14:38:42,497 - INFO -   monitoring.seismic_monitoring: 270 documenti
+2025-07-26 14:38:42,567 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:38:42,568 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 14:38:42,604 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 14:38:42,604 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 14:38:42,633 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 14:38:42,634 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 14:38:42,664 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 14:38:42,664 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 14:38:42,664 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 14:38:42,698 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 14:38:42,699 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 14:38:42,731 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 14:38:42,766 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 14:38:42,766 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 14:38:42,828 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 14:38:42,856 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 14:38:42,856 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:38:42,884 - INFO -   rullo_triv: 146 documenti
+2025-07-26 14:38:42,923 - INFO -   rullo_sacr: 201 documenti
+2025-07-26 14:38:42,958 - INFO -   rullo_cign: 146 documenti
+2025-07-26 14:38:42,991 - INFO -   monitoring.seismic_monitoring: 270 documenti
+2025-07-26 14:38:43,047 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:38:43,047 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 14:41:42,460 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 14:41:42,460 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 14:41:42,460 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 14:41:42,460 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 14:41:42,461 - INFO - ==================================================
+2025-07-26 14:41:42,461 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:41:42,675 - INFO -   rullo_triv: 146 documenti
+2025-07-26 14:41:42,703 - INFO -   rullo_sacr: 202 documenti
+2025-07-26 14:41:42,731 - INFO -   rullo_cign: 146 documenti
+2025-07-26 14:41:42,974 - INFO -   monitoring.seismic_monitoring: 315 documenti
+2025-07-26 14:41:43,031 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:41:43,031 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 14:41:43,059 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 14:41:43,059 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 14:41:43,090 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 14:41:43,090 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 14:41:43,118 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 14:41:43,119 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 14:41:43,119 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 14:41:43,147 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 14:41:43,147 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 14:41:43,176 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 14:41:43,205 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 14:41:43,205 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 14:41:43,268 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 14:41:43,296 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 14:41:43,296 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:41:43,331 - INFO -   rullo_triv: 146 documenti
+2025-07-26 14:41:43,361 - INFO -   rullo_sacr: 202 documenti
+2025-07-26 14:41:43,407 - INFO -   rullo_cign: 146 documenti
+2025-07-26 14:41:43,448 - INFO -   monitoring.seismic_monitoring: 315 documenti
+2025-07-26 14:41:43,526 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:41:43,526 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 14:49:11,948 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 14:49:11,948 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 14:49:11,948 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 14:49:11,949 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 14:49:11,949 - INFO - ==================================================
+2025-07-26 14:49:11,949 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:49:12,164 - INFO -   rullo_triv: 147 documenti
+2025-07-26 14:49:12,195 - INFO -   rullo_sacr: 204 documenti
+2025-07-26 14:49:12,223 - INFO -   rullo_cign: 147 documenti
+2025-07-26 14:49:12,466 - INFO -   monitoring.seismic_monitoring: 423 documenti
+2025-07-26 14:49:12,526 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:49:12,526 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 14:49:12,563 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 14:49:12,564 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 14:49:12,606 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 14:49:12,606 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 14:49:12,640 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 14:49:12,640 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 14:49:12,640 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 14:49:12,669 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 14:49:12,669 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 14:49:12,698 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 14:49:12,727 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 14:49:12,727 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 14:49:12,785 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 14:49:12,813 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 14:49:12,813 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:49:12,841 - INFO -   rullo_triv: 147 documenti
+2025-07-26 14:49:12,869 - INFO -   rullo_sacr: 204 documenti
+2025-07-26 14:49:12,904 - INFO -   rullo_cign: 147 documenti
+2025-07-26 14:49:12,932 - INFO -   monitoring.seismic_monitoring: 423 documenti
+2025-07-26 14:49:12,988 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:49:12,988 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 14:53:37,091 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 14:53:37,091 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 14:53:37,092 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 14:53:37,092 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 14:53:37,092 - INFO - ==================================================
+2025-07-26 14:53:37,092 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:53:37,311 - INFO -   rullo_triv: 147 documenti
+2025-07-26 14:53:37,346 - INFO -   rullo_sacr: 206 documenti
+2025-07-26 14:53:37,380 - INFO -   rullo_cign: 147 documenti
+2025-07-26 14:53:37,591 - INFO -   monitoring.seismic_monitoring: 495 documenti
+2025-07-26 14:53:37,657 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:53:37,657 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 14:53:37,686 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 14:53:37,686 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 14:53:37,723 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 14:53:37,723 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 14:53:37,751 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 14:53:37,752 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 14:53:37,752 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 14:53:37,781 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 14:53:37,781 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 14:53:37,810 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 14:53:37,837 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 14:53:37,838 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 14:53:37,897 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 14:53:37,936 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 14:53:37,936 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:53:37,964 - INFO -   rullo_triv: 147 documenti
+2025-07-26 14:53:37,997 - INFO -   rullo_sacr: 206 documenti
+2025-07-26 14:53:38,025 - INFO -   rullo_cign: 147 documenti
+2025-07-26 14:53:38,056 - INFO -   monitoring.seismic_monitoring: 495 documenti
+2025-07-26 14:53:38,116 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:53:38,116 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 14:58:32,152 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 14:58:32,153 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 14:58:32,154 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 14:58:32,154 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 14:58:32,154 - INFO - ==================================================
+2025-07-26 14:58:32,154 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:58:32,392 - INFO -   rullo_triv: 147 documenti
+2025-07-26 14:58:32,420 - INFO -   rullo_sacr: 208 documenti
+2025-07-26 14:58:32,448 - INFO -   rullo_cign: 147 documenti
+2025-07-26 14:58:32,676 - INFO -   monitoring.seismic_monitoring: 567 documenti
+2025-07-26 14:58:32,747 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:58:32,747 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 14:58:32,781 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 14:58:32,782 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 14:58:32,810 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 14:58:32,810 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 14:58:32,838 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 14:58:32,838 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 14:58:32,838 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 14:58:32,873 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 14:58:32,873 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 14:58:32,902 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 14:58:32,933 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 14:58:32,933 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 14:58:32,989 - INFO -   ✅ test_collection: 0 record eliminati
+2025-07-26 14:58:33,017 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 14:58:33,017 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 14:58:33,045 - INFO -   rullo_triv: 147 documenti
+2025-07-26 14:58:33,074 - INFO -   rullo_sacr: 208 documenti
+2025-07-26 14:58:33,109 - INFO -   rullo_cign: 147 documenti
+2025-07-26 14:58:33,140 - INFO -   monitoring.seismic_monitoring: 567 documenti
+2025-07-26 14:58:33,218 - INFO -   seismic_monitoring.test_collection: 0 documenti
+2025-07-26 14:58:33,218 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 19:42:13,680 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 19:42:13,680 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 19:42:13,681 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 19:42:13,681 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 19:42:13,681 - INFO - ==================================================
+2025-07-26 19:42:13,681 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 19:42:13,910 - INFO -   rullo_triv: 202 documenti
+2025-07-26 19:42:13,939 - INFO -   rullo_sacr: 279 documenti
+2025-07-26 19:42:13,968 - INFO -   rullo_cign: 202 documenti
+2025-07-26 19:42:14,198 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 19:42:14,227 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 19:42:14,264 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 19:42:14,264 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 19:42:14,295 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 19:42:14,295 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 19:42:14,324 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 19:42:14,324 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 19:42:14,324 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 19:42:14,360 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 19:42:14,360 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 19:42:14,389 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 19:42:14,422 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 19:42:14,422 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 19:42:14,479 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 19:42:14,479 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 19:42:14,508 - INFO -   rullo_triv: 202 documenti
+2025-07-26 19:42:14,538 - INFO -   rullo_sacr: 279 documenti
+2025-07-26 19:42:14,569 - INFO -   rullo_cign: 202 documenti
+2025-07-26 19:42:14,601 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 19:42:14,633 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 19:45:17,771 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 19:45:17,771 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 19:45:17,772 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 19:45:17,772 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 19:45:17,772 - INFO - ==================================================
+2025-07-26 19:45:17,772 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 19:45:17,986 - INFO -   rullo_triv: 202 documenti
+2025-07-26 19:45:18,014 - INFO -   rullo_sacr: 280 documenti
+2025-07-26 19:45:18,043 - INFO -   rullo_cign: 202 documenti
+2025-07-26 19:45:18,249 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 19:45:18,278 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 19:45:18,306 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 19:45:18,306 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 19:45:18,336 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 19:45:18,337 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 19:45:18,365 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 19:45:18,365 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 19:45:18,365 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 19:45:18,396 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 19:45:18,397 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 19:45:18,424 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 19:45:18,453 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 19:45:18,453 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 19:45:18,510 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 19:45:18,510 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 19:45:18,540 - INFO -   rullo_triv: 202 documenti
+2025-07-26 19:45:18,573 - INFO -   rullo_sacr: 280 documenti
+2025-07-26 19:45:18,602 - INFO -   rullo_cign: 202 documenti
+2025-07-26 19:45:18,630 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 19:45:18,661 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 19:52:48,476 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 19:52:48,476 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 19:52:48,476 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 19:52:48,476 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 19:52:48,477 - INFO - ==================================================
+2025-07-26 19:52:48,477 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 19:52:48,730 - INFO -   rullo_triv: 203 documenti
+2025-07-26 19:52:48,758 - INFO -   rullo_sacr: 282 documenti
+2025-07-26 19:52:48,786 - INFO -   rullo_cign: 203 documenti
+2025-07-26 19:52:49,006 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 19:52:49,042 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 19:52:49,073 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 19:52:49,073 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 19:52:49,101 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 19:52:49,101 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 19:52:49,132 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 19:52:49,132 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 19:52:49,132 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 19:52:49,167 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 19:52:49,167 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 19:52:49,198 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 19:52:49,229 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 19:52:49,229 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 19:52:49,286 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 19:52:49,286 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 19:52:49,318 - INFO -   rullo_triv: 203 documenti
+2025-07-26 19:52:49,349 - INFO -   rullo_sacr: 282 documenti
+2025-07-26 19:52:49,388 - INFO -   rullo_cign: 203 documenti
+2025-07-26 19:52:49,420 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 19:52:49,448 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 20:01:35,527 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 20:01:35,527 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 20:01:35,528 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 20:01:35,528 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 20:01:35,528 - INFO - ==================================================
+2025-07-26 20:01:35,528 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:01:35,748 - INFO -   rullo_triv: 204 documenti
+2025-07-26 20:01:35,780 - INFO -   rullo_sacr: 285 documenti
+2025-07-26 20:01:35,808 - INFO -   rullo_cign: 204 documenti
+2025-07-26 20:01:36,033 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 20:01:36,084 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 20:01:36,111 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 20:01:36,111 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 20:01:36,139 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 20:01:36,140 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 20:01:36,167 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 20:01:36,167 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 20:01:36,168 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 20:01:36,199 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 20:01:36,199 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 20:01:36,229 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 20:01:36,258 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 20:01:36,258 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 20:01:36,329 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 20:01:36,329 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:01:36,357 - INFO -   rullo_triv: 204 documenti
+2025-07-26 20:01:36,385 - INFO -   rullo_sacr: 285 documenti
+2025-07-26 20:01:36,414 - INFO -   rullo_cign: 204 documenti
+2025-07-26 20:01:36,454 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 20:01:36,493 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 20:07:18,310 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 20:07:18,310 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 20:07:18,311 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 20:07:18,311 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 20:07:18,311 - INFO - ==================================================
+2025-07-26 20:07:18,311 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:07:18,670 - INFO -   rullo_triv: 205 documenti
+2025-07-26 20:07:18,699 - INFO -   rullo_sacr: 287 documenti
+2025-07-26 20:07:18,737 - INFO -   rullo_cign: 205 documenti
+2025-07-26 20:07:18,956 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 20:07:18,986 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 20:07:19,017 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 20:07:19,017 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 20:07:19,047 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 20:07:19,047 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 20:07:19,079 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 20:07:19,079 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 20:07:19,079 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 20:07:19,109 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 20:07:19,109 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 20:07:19,139 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 20:07:19,183 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 20:07:19,183 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 20:07:19,260 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 20:07:19,260 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:07:19,289 - INFO -   rullo_triv: 205 documenti
+2025-07-26 20:07:19,319 - INFO -   rullo_sacr: 287 documenti
+2025-07-26 20:07:19,358 - INFO -   rullo_cign: 205 documenti
+2025-07-26 20:07:19,389 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 20:07:19,422 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 20:14:45,468 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 20:14:45,468 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 20:14:45,468 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 20:14:45,468 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 20:14:45,468 - INFO - ==================================================
+2025-07-26 20:14:45,469 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:14:45,681 - INFO -   rullo_triv: 206 documenti
+2025-07-26 20:14:45,716 - INFO -   rullo_sacr: 289 documenti
+2025-07-26 20:14:45,747 - INFO -   rullo_cign: 206 documenti
+2025-07-26 20:14:45,969 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 20:14:45,996 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 20:14:46,024 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 20:14:46,025 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 20:14:46,058 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 20:14:46,058 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 20:14:46,086 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 20:14:46,086 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 20:14:46,086 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 20:14:46,116 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 20:14:46,116 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 20:14:46,147 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 20:14:46,175 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 20:14:46,175 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 20:14:46,245 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 20:14:46,245 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:14:46,275 - INFO -   rullo_triv: 206 documenti
+2025-07-26 20:14:46,302 - INFO -   rullo_sacr: 289 documenti
+2025-07-26 20:14:46,331 - INFO -   rullo_cign: 206 documenti
+2025-07-26 20:14:46,361 - INFO -   monitoring.seismic_monitoring: 1395 documenti
+2025-07-26 20:14:46,405 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 20:34:51,660 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 20:34:51,660 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 20:34:51,661 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 20:34:51,661 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 20:34:51,661 - INFO - ==================================================
+2025-07-26 20:34:51,661 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:34:52,043 - INFO -   rullo_triv: 208 documenti
+2025-07-26 20:34:52,075 - INFO -   rullo_sacr: 293 documenti
+2025-07-26 20:34:52,108 - INFO -   rullo_cign: 208 documenti
+2025-07-26 20:34:52,335 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 20:34:52,364 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 20:34:52,393 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 20:34:52,393 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 20:34:52,424 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 20:34:52,424 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 20:34:52,453 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 20:34:52,453 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 20:34:52,453 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 20:34:52,488 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 20:34:52,488 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 20:34:52,521 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 20:34:52,563 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 20:34:52,563 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 20:34:52,627 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 20:34:52,627 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:34:52,662 - INFO -   rullo_triv: 208 documenti
+2025-07-26 20:34:52,692 - INFO -   rullo_sacr: 293 documenti
+2025-07-26 20:34:52,739 - INFO -   rullo_cign: 208 documenti
+2025-07-26 20:34:52,773 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 20:34:52,802 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 20:39:04,888 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 20:39:04,888 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 20:39:04,888 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 20:39:04,888 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 20:39:04,889 - INFO - ==================================================
+2025-07-26 20:39:04,889 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:39:05,259 - INFO -   rullo_triv: 208 documenti
+2025-07-26 20:39:05,289 - INFO -   rullo_sacr: 295 documenti
+2025-07-26 20:39:05,318 - INFO -   rullo_cign: 208 documenti
+2025-07-26 20:39:05,545 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 20:39:05,572 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 20:39:05,606 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 20:39:05,606 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 20:39:05,637 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 20:39:05,637 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 20:39:05,666 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 20:39:05,666 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 20:39:05,666 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 20:39:05,695 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 20:39:05,695 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 20:39:05,727 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 20:39:05,756 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 20:39:05,756 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 20:39:05,815 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 20:39:05,815 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 20:39:05,846 - INFO -   rullo_triv: 208 documenti
+2025-07-26 20:39:05,885 - INFO -   rullo_sacr: 295 documenti
+2025-07-26 20:39:05,914 - INFO -   rullo_cign: 208 documenti
+2025-07-26 20:39:05,950 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 20:39:05,979 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 21:57:01,646 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 21:57:01,646 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 21:57:01,646 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 21:57:01,646 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 21:57:01,646 - INFO - ==================================================
+2025-07-26 21:57:01,646 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 21:57:01,861 - INFO -   rullo_triv: 223 documenti
+2025-07-26 21:57:01,896 - INFO -   rullo_sacr: 315 documenti
+2025-07-26 21:57:01,926 - INFO -   rullo_cign: 223 documenti
+2025-07-26 21:57:02,154 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 21:57:02,182 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 21:57:02,210 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 21:57:02,211 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 21:57:02,242 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 21:57:02,242 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 21:57:02,270 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 21:57:02,270 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 21:57:02,270 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 21:57:02,299 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 21:57:02,299 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 21:57:02,327 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 21:57:02,359 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 21:57:02,359 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 21:57:02,413 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 21:57:02,413 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 21:57:02,441 - INFO -   rullo_triv: 223 documenti
+2025-07-26 21:57:02,470 - INFO -   rullo_sacr: 315 documenti
+2025-07-26 21:57:02,498 - INFO -   rullo_cign: 223 documenti
+2025-07-26 21:57:02,541 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 21:57:02,576 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 22:53:47,070 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 22:53:47,071 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 22:53:47,071 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 22:53:47,072 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 22:53:47,076 - INFO - ==================================================
+2025-07-26 22:53:47,078 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 22:53:47,402 - INFO -   rullo_triv: 234 documenti
+2025-07-26 22:53:47,431 - INFO -   rullo_sacr: 330 documenti
+2025-07-26 22:53:47,462 - INFO -   rullo_cign: 234 documenti
+2025-07-26 22:53:47,683 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 22:53:47,712 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 22:53:47,749 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 22:53:47,749 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 22:53:47,779 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 22:53:47,779 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 22:53:47,811 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 22:53:47,811 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 22:53:47,811 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 22:53:47,857 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 22:53:47,857 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 22:53:47,885 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 22:53:47,918 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 22:53:47,919 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 22:53:47,974 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 22:53:47,974 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 22:53:48,005 - INFO -   rullo_triv: 234 documenti
+2025-07-26 22:53:48,038 - INFO -   rullo_sacr: 330 documenti
+2025-07-26 22:53:48,068 - INFO -   rullo_cign: 234 documenti
+2025-07-26 22:53:48,106 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 22:53:48,134 - INFO - ✅ Pulizia automatica completata!
+2025-07-26 22:58:48,680 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-26 22:58:48,680 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-26 22:58:48,680 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-26 22:58:48,680 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-26 22:58:48,680 - INFO - ==================================================
+2025-07-26 22:58:48,680 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 22:58:48,911 - INFO -   rullo_triv: 235 documenti
+2025-07-26 22:58:48,939 - INFO -   rullo_sacr: 332 documenti
+2025-07-26 22:58:48,970 - INFO -   rullo_cign: 235 documenti
+2025-07-26 22:58:49,183 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 22:58:49,211 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-26 22:58:49,243 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-26 22:58:49,244 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-26 22:58:49,278 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-26 22:58:49,278 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-26 22:58:49,307 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-26 22:58:49,307 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-26 22:58:49,307 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-26 22:58:49,351 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-26 22:58:49,351 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-26 22:58:49,383 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-26 22:58:49,423 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-26 22:58:49,423 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-26 22:58:49,480 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-26 22:58:49,480 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-26 22:58:49,516 - INFO -   rullo_triv: 235 documenti
+2025-07-26 22:58:49,548 - INFO -   rullo_sacr: 332 documenti
+2025-07-26 22:58:49,583 - INFO -   rullo_cign: 235 documenti
+2025-07-26 22:58:49,613 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-26 22:58:49,647 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 00:30:50,064 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 00:30:50,073 - INFO - ==================================================
+2025-07-27 00:30:50,074 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 00:30:50,121 - INFO -   rullo_triv: 253 documenti
+2025-07-27 00:30:50,151 - INFO -   rullo_sacr: 355 documenti
+2025-07-27 00:30:50,184 - INFO -   rullo_cign: 253 documenti
+2025-07-27 00:30:50,216 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 00:30:50,246 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 00:30:50,278 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 00:30:50,278 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 00:30:50,307 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 00:30:50,307 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 00:30:50,336 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 00:30:50,339 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 00:30:50,339 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 00:30:50,379 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 00:30:50,379 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 00:30:50,412 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 00:30:50,440 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 00:30:50,440 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 00:30:50,496 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 00:30:50,496 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 00:30:50,525 - INFO -   rullo_triv: 253 documenti
+2025-07-27 00:30:50,556 - INFO -   rullo_sacr: 355 documenti
+2025-07-27 00:30:50,585 - INFO -   rullo_cign: 253 documenti
+2025-07-27 00:30:50,619 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 00:30:50,647 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 15:47:06,083 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 15:47:06,084 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 15:47:06,086 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 15:47:06,086 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 15:47:06,086 - INFO - ==================================================
+2025-07-27 15:47:06,086 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 15:47:06,318 - INFO -   rullo_triv: 433 documenti
+2025-07-27 15:47:06,346 - INFO -   rullo_sacr: 584 documenti
+2025-07-27 15:47:06,373 - INFO -   rullo_cign: 433 documenti
+2025-07-27 15:47:06,587 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 15:47:06,618 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 15:47:06,655 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 15:47:06,655 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 15:47:06,683 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 15:47:06,684 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 15:47:06,711 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 15:47:06,711 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 15:47:06,712 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 15:47:06,740 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 15:47:06,740 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 15:47:06,768 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 15:47:06,796 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 15:47:06,796 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 15:47:06,857 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 15:47:06,857 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 15:47:06,886 - INFO -   rullo_triv: 433 documenti
+2025-07-27 15:47:06,925 - INFO -   rullo_sacr: 584 documenti
+2025-07-27 15:47:06,958 - INFO -   rullo_cign: 433 documenti
+2025-07-27 15:47:06,986 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 15:47:07,025 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 16:21:01,673 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 16:21:01,674 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 16:21:01,674 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 16:21:01,674 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 16:21:01,674 - INFO - ==================================================
+2025-07-27 16:21:01,674 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 16:21:02,186 - INFO -   rullo_triv: 439 documenti
+2025-07-27 16:21:02,237 - INFO -   rullo_sacr: 592 documenti
+2025-07-27 16:21:02,273 - INFO -   rullo_cign: 439 documenti
+2025-07-27 16:21:02,597 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 16:21:02,671 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 16:21:02,763 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 16:21:02,763 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 16:21:02,909 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 16:21:02,909 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 16:21:02,990 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 16:21:02,990 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 16:21:02,990 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 16:21:03,114 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 16:21:03,114 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 16:21:03,232 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 16:21:03,297 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 16:21:03,297 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 16:21:03,413 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 16:21:03,413 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 16:21:03,475 - INFO -   rullo_triv: 439 documenti
+2025-07-27 16:21:03,509 - INFO -   rullo_sacr: 592 documenti
+2025-07-27 16:21:03,538 - INFO -   rullo_cign: 439 documenti
+2025-07-27 16:21:03,589 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 16:21:03,663 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 16:31:31,121 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 16:31:31,121 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 16:31:31,121 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 16:31:31,121 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 16:31:31,122 - INFO - ==================================================
+2025-07-27 16:31:31,122 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 16:31:31,549 - INFO -   rullo_triv: 441 documenti
+2025-07-27 16:31:31,600 - INFO -   rullo_sacr: 595 documenti
+2025-07-27 16:31:31,642 - INFO -   rullo_cign: 441 documenti
+2025-07-27 16:31:32,014 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 16:31:32,110 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 16:31:32,230 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 16:31:32,230 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 16:31:32,279 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 16:31:32,279 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 16:31:32,376 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 16:31:32,376 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 16:31:32,376 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 16:31:32,484 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 16:31:32,484 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 16:31:32,550 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 16:31:32,596 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 16:31:32,597 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 16:31:32,758 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 16:31:32,758 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 16:31:32,801 - INFO -   rullo_triv: 441 documenti
+2025-07-27 16:31:32,832 - INFO -   rullo_sacr: 595 documenti
+2025-07-27 16:31:32,866 - INFO -   rullo_cign: 441 documenti
+2025-07-27 16:31:32,924 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 16:31:32,963 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 16:36:05,809 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 16:36:05,809 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 16:36:05,810 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 16:36:05,810 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 16:36:05,810 - INFO - ==================================================
+2025-07-27 16:36:05,810 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 16:36:06,060 - INFO -   rullo_triv: 441 documenti
+2025-07-27 16:36:06,149 - INFO -   rullo_sacr: 597 documenti
+2025-07-27 16:36:06,190 - INFO -   rullo_cign: 441 documenti
+2025-07-27 16:36:06,550 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 16:36:06,591 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 16:36:06,733 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 16:36:06,733 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 16:36:06,845 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 16:36:06,845 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 16:36:06,906 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 16:36:06,906 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 16:36:06,906 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 16:36:06,944 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 16:36:06,944 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 16:36:07,050 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 16:36:07,091 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 16:36:07,091 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 16:36:07,192 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 16:36:07,192 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 16:36:07,245 - INFO -   rullo_triv: 441 documenti
+2025-07-27 16:36:07,286 - INFO -   rullo_sacr: 597 documenti
+2025-07-27 16:36:07,374 - INFO -   rullo_cign: 441 documenti
+2025-07-27 16:36:07,420 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 16:36:07,451 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 19:46:56,626 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 19:46:56,627 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 19:46:56,627 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 19:46:56,627 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 19:46:56,627 - INFO - ==================================================
+2025-07-27 19:46:56,627 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 19:46:56,921 - INFO -   rullo_triv: 463 documenti
+2025-07-27 19:46:56,957 - INFO -   rullo_sacr: 601 documenti
+2025-07-27 19:46:56,986 - INFO -   rullo_cign: 443 documenti
+2025-07-27 19:46:57,250 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 19:46:57,301 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 19:46:57,352 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 19:46:57,353 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 19:46:57,400 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 19:46:57,400 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 19:46:57,468 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 19:46:57,468 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 19:46:57,468 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 19:46:58,028 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 19:46:58,028 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 19:46:58,521 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 19:46:58,574 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 19:46:58,574 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 19:46:58,666 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 19:46:58,666 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 19:46:58,722 - INFO -   rullo_triv: 463 documenti
+2025-07-27 19:46:58,760 - INFO -   rullo_sacr: 601 documenti
+2025-07-27 19:46:58,792 - INFO -   rullo_cign: 443 documenti
+2025-07-27 19:46:58,848 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 19:46:58,884 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 19:52:12,935 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 19:52:12,935 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 19:52:12,936 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 19:52:12,936 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 19:52:12,936 - INFO - ==================================================
+2025-07-27 19:52:12,936 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 19:52:13,455 - INFO -   rullo_triv: 464 documenti
+2025-07-27 19:52:13,502 - INFO -   rullo_sacr: 603 documenti
+2025-07-27 19:52:13,551 - INFO -   rullo_cign: 444 documenti
+2025-07-27 19:52:14,151 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 19:52:14,232 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 19:52:14,269 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 19:52:14,269 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 19:52:14,309 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 19:52:14,309 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 19:52:14,345 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 19:52:14,345 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 19:52:14,346 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 19:52:14,429 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 19:52:14,429 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 19:52:14,473 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 19:52:14,559 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 19:52:14,559 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 19:52:14,641 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 19:52:14,641 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 19:52:14,704 - INFO -   rullo_triv: 464 documenti
+2025-07-27 19:52:14,762 - INFO -   rullo_sacr: 603 documenti
+2025-07-27 19:52:14,794 - INFO -   rullo_cign: 444 documenti
+2025-07-27 19:52:14,866 - INFO -   monitoring.seismic_monitoring: 0 documenti
+2025-07-27 19:52:14,914 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 20:47:15,040 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 20:47:15,040 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 20:47:15,041 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 20:47:15,041 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 20:47:15,041 - INFO - ==================================================
+2025-07-27 20:47:15,041 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 20:47:15,266 - INFO -   rullo_triv: 471 documenti
+2025-07-27 20:47:15,295 - INFO -   rullo_sacr: 612 documenti
+2025-07-27 20:47:15,326 - INFO -   rullo_cign: 451 documenti
+2025-07-27 20:47:15,543 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 20:47:15,582 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 20:47:15,612 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 20:47:15,612 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 20:47:15,640 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 20:47:15,640 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 20:47:15,676 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 20:47:15,676 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 20:47:15,676 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 20:47:15,705 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 20:47:15,705 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 20:47:15,732 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 20:47:15,767 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 20:47:15,767 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 20:47:15,824 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 20:47:15,824 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 20:47:15,854 - INFO -   rullo_triv: 471 documenti
+2025-07-27 20:47:15,882 - INFO -   rullo_sacr: 612 documenti
+2025-07-27 20:47:15,910 - INFO -   rullo_cign: 451 documenti
+2025-07-27 20:47:15,940 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 20:47:15,971 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 22:47:49,116 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 22:47:49,116 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 22:47:49,116 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 22:47:49,116 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 22:47:49,116 - INFO - ==================================================
+2025-07-27 22:47:49,116 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:47:49,377 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:47:49,413 - INFO -   rullo_sacr: 642 documenti
+2025-07-27 22:47:49,453 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:47:49,677 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:47:49,705 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 22:47:49,741 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 22:47:49,741 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 22:47:49,777 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 22:47:49,777 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 22:47:49,811 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 22:47:49,811 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 22:47:49,811 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 22:47:49,840 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 22:47:49,840 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 22:47:49,868 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 22:47:49,897 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 22:47:49,897 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 22:47:49,955 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 22:47:49,955 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:47:49,994 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:47:50,031 - INFO -   rullo_sacr: 642 documenti
+2025-07-27 22:47:50,068 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:47:50,096 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:47:50,126 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 22:51:44,174 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 22:51:44,175 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 22:51:44,175 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 22:51:44,175 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 22:51:44,175 - INFO - ==================================================
+2025-07-27 22:51:44,175 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:51:44,430 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:51:44,467 - INFO -   rullo_sacr: 643 documenti
+2025-07-27 22:51:44,506 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:51:44,716 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:51:44,749 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 22:51:44,784 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 22:51:44,784 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 22:51:44,817 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 22:51:44,818 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 22:51:44,854 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 22:51:44,854 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 22:51:44,854 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 22:51:44,882 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 22:51:44,882 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 22:51:44,910 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 22:51:44,937 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 22:51:44,937 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 22:51:44,992 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 22:51:44,992 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:51:45,027 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:51:45,063 - INFO -   rullo_sacr: 643 documenti
+2025-07-27 22:51:45,099 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:51:45,128 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:51:45,157 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 22:55:13,871 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 22:55:13,871 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 22:55:13,872 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 22:55:13,872 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 22:55:13,872 - INFO - ==================================================
+2025-07-27 22:55:13,872 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:55:14,110 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:55:14,147 - INFO -   rullo_sacr: 644 documenti
+2025-07-27 22:55:14,182 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:55:14,397 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:55:14,426 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 22:55:14,464 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 22:55:14,465 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 22:55:14,500 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 22:55:14,500 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 22:55:14,537 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 22:55:14,537 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 22:55:14,537 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 22:55:14,567 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 22:55:14,567 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 22:55:14,595 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 22:55:14,624 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 22:55:14,624 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 22:55:14,679 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 22:55:14,679 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:55:14,715 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:55:14,749 - INFO -   rullo_sacr: 644 documenti
+2025-07-27 22:55:14,817 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:55:14,850 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:55:14,884 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 22:56:13,727 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 22:56:13,728 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 22:56:13,728 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 22:56:13,728 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 22:56:13,729 - INFO - ==================================================
+2025-07-27 22:56:13,729 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:56:14,130 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:56:14,168 - INFO -   rullo_sacr: 645 documenti
+2025-07-27 22:56:14,202 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:56:14,424 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:56:14,453 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 22:56:14,502 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 22:56:14,502 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 22:56:14,537 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 22:56:14,537 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 22:56:14,571 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 22:56:14,571 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 22:56:14,571 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 22:56:14,600 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 22:56:14,600 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 22:56:14,630 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 22:56:14,664 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 22:56:14,664 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 22:56:14,724 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 22:56:14,724 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 22:56:14,760 - INFO -   rullo_triv: 494 documenti
+2025-07-27 22:56:14,799 - INFO -   rullo_sacr: 645 documenti
+2025-07-27 22:56:14,834 - INFO -   rullo_cign: 474 documenti
+2025-07-27 22:56:14,864 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 22:56:14,892 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 23:01:25,436 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 23:01:25,436 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 23:01:25,437 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 23:01:25,437 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 23:01:25,437 - INFO - ==================================================
+2025-07-27 23:01:25,437 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:01:25,687 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:01:25,723 - INFO -   rullo_sacr: 647 documenti
+2025-07-27 23:01:25,768 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:01:25,982 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:01:26,016 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 23:01:26,056 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 23:01:26,056 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 23:01:26,094 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 23:01:26,094 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 23:01:26,132 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 23:01:26,132 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 23:01:26,132 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 23:01:26,160 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 23:01:26,160 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 23:01:26,188 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 23:01:26,217 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 23:01:26,218 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 23:01:26,282 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 23:01:26,282 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:01:26,316 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:01:26,354 - INFO -   rullo_sacr: 647 documenti
+2025-07-27 23:01:26,408 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:01:26,439 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:01:26,467 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 23:05:05,470 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 23:05:05,470 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 23:05:05,471 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 23:05:05,471 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 23:05:05,471 - INFO - ==================================================
+2025-07-27 23:05:05,471 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:05:05,725 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:05:05,762 - INFO -   rullo_sacr: 648 documenti
+2025-07-27 23:05:05,798 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:05:06,011 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:05:06,039 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 23:05:06,073 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 23:05:06,074 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 23:05:06,107 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 23:05:06,107 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 23:05:06,142 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 23:05:06,142 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 23:05:06,142 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 23:05:06,170 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 23:05:06,170 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 23:05:06,198 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 23:05:06,226 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 23:05:06,226 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 23:05:06,283 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 23:05:06,283 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:05:06,323 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:05:06,380 - INFO -   rullo_sacr: 648 documenti
+2025-07-27 23:05:06,416 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:05:06,448 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:05:06,475 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 23:07:27,099 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 23:07:27,100 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 23:07:27,100 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 23:07:27,100 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 23:07:27,100 - INFO - ==================================================
+2025-07-27 23:07:27,100 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:07:27,536 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:07:27,571 - INFO -   rullo_sacr: 649 documenti
+2025-07-27 23:07:27,606 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:07:27,816 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:07:27,856 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 23:07:27,891 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 23:07:27,892 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 23:07:27,934 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 23:07:27,934 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 23:07:27,970 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 23:07:27,970 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 23:07:27,970 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 23:07:27,999 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 23:07:27,999 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 23:07:28,027 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 23:07:28,065 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 23:07:28,065 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 23:07:28,123 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 23:07:28,123 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:07:28,158 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:07:28,198 - INFO -   rullo_sacr: 649 documenti
+2025-07-27 23:07:28,235 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:07:28,266 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:07:28,294 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 23:11:09,796 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 23:11:09,796 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 23:11:09,797 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 23:11:09,797 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 23:11:09,797 - INFO - ==================================================
+2025-07-27 23:11:09,797 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:11:10,051 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:11:10,091 - INFO -   rullo_sacr: 650 documenti
+2025-07-27 23:11:10,127 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:11:10,352 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:11:10,380 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 23:11:10,416 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 23:11:10,416 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 23:11:10,450 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 23:11:10,450 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 23:11:10,490 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 23:11:10,490 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 23:11:10,490 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 23:11:10,523 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 23:11:10,523 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 23:11:10,550 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 23:11:10,579 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 23:11:10,579 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 23:11:10,636 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 23:11:10,637 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:11:10,684 - INFO -   rullo_triv: 495 documenti
+2025-07-27 23:11:10,719 - INFO -   rullo_sacr: 650 documenti
+2025-07-27 23:11:10,755 - INFO -   rullo_cign: 475 documenti
+2025-07-27 23:11:10,785 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:11:10,815 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 23:25:34,286 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 23:25:34,286 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 23:25:34,286 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 23:25:34,286 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 23:25:34,286 - INFO - ==================================================
+2025-07-27 23:25:34,286 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:25:34,514 - INFO -   rullo_triv: 497 documenti
+2025-07-27 23:25:34,550 - INFO -   rullo_sacr: 654 documenti
+2025-07-27 23:25:34,589 - INFO -   rullo_cign: 477 documenti
+2025-07-27 23:25:34,804 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:25:34,831 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 23:25:34,866 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 23:25:34,866 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 23:25:34,900 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 23:25:34,900 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 23:25:34,934 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 23:25:34,934 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 23:25:34,934 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 23:25:34,961 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 23:25:34,961 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 23:25:34,990 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 23:25:35,017 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 23:25:35,017 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 23:25:35,072 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 23:25:35,073 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:25:35,108 - INFO -   rullo_triv: 497 documenti
+2025-07-27 23:25:35,147 - INFO -   rullo_sacr: 654 documenti
+2025-07-27 23:25:35,182 - INFO -   rullo_cign: 477 documenti
+2025-07-27 23:25:35,211 - INFO -   monitoring.seismic_monitoring: 1 documenti
+2025-07-27 23:25:35,245 - INFO - ✅ Pulizia automatica completata!
+2025-07-27 23:30:59,765 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-27 23:30:59,765 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-27 23:30:59,766 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-27 23:30:59,766 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-27 23:30:59,766 - INFO - ==================================================
+2025-07-27 23:30:59,766 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:31:00,008 - INFO -   rullo_triv: 498 documenti
+2025-07-27 23:31:00,051 - INFO -   rullo_sacr: 656 documenti
+2025-07-27 23:31:00,092 - INFO -   rullo_cign: 478 documenti
+2025-07-27 23:31:00,308 - INFO -   monitoring.seismic_monitoring: 37 documenti
+2025-07-27 23:31:00,337 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-27 23:31:00,372 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-27 23:31:00,372 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-27 23:31:00,407 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-27 23:31:00,407 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-27 23:31:00,440 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-27 23:31:00,441 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-27 23:31:00,441 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-27 23:31:00,470 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-27 23:31:00,470 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-27 23:31:00,498 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-27 23:31:00,526 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-27 23:31:00,527 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-27 23:31:00,582 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-27 23:31:00,582 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-27 23:31:00,617 - INFO -   rullo_triv: 498 documenti
+2025-07-27 23:31:00,654 - INFO -   rullo_sacr: 656 documenti
+2025-07-27 23:31:00,691 - INFO -   rullo_cign: 478 documenti
+2025-07-27 23:31:00,720 - INFO -   monitoring.seismic_monitoring: 37 documenti
+2025-07-27 23:31:00,752 - INFO - ✅ Pulizia automatica completata!
+2025-07-28 11:22:49,820 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-28 11:22:49,820 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-28 11:22:49,820 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-28 11:22:49,824 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-28 11:22:49,824 - INFO - ==================================================
+2025-07-28 11:22:49,824 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 11:22:50,293 - INFO -   rullo_triv: 628 documenti
+2025-07-28 11:22:50,340 - INFO -   rullo_sacr: 825 documenti
+2025-07-28 11:22:50,381 - INFO -   rullo_cign: 608 documenti
+2025-07-28 11:22:50,702 - INFO -   monitoring.seismic_monitoring: 37 documenti
+2025-07-28 11:22:50,747 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-28 11:22:50,785 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-28 11:22:50,788 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-28 11:22:50,829 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-28 11:22:50,830 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-28 11:22:50,869 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-28 11:22:50,869 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-28 11:22:50,869 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-28 11:22:50,912 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-28 11:22:50,913 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-28 11:22:50,951 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-28 11:22:50,994 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-28 11:22:50,994 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-28 11:22:51,081 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-28 11:22:51,081 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 11:22:51,120 - INFO -   rullo_triv: 628 documenti
+2025-07-28 11:22:51,166 - INFO -   rullo_sacr: 825 documenti
+2025-07-28 11:22:51,211 - INFO -   rullo_cign: 608 documenti
+2025-07-28 11:22:51,251 - INFO -   monitoring.seismic_monitoring: 37 documenti
+2025-07-28 11:22:51,289 - INFO - ✅ Pulizia automatica completata!
+2025-07-28 12:51:57,812 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-28 12:51:57,812 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-28 12:51:57,812 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-28 12:51:57,812 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-28 12:51:57,812 - INFO - ==================================================
+2025-07-28 12:51:57,812 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 12:51:58,284 - INFO -   rullo_triv: 663 documenti
+2025-07-28 12:51:58,328 - INFO -   rullo_sacr: 870 documenti
+2025-07-28 12:51:58,390 - INFO -   rullo_cign: 643 documenti
+2025-07-28 12:51:58,722 - INFO -   monitoring.seismic_monitoring: 37 documenti
+2025-07-28 12:51:58,759 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-28 12:51:58,805 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-28 12:51:58,809 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-28 12:51:58,850 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-28 12:51:58,850 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-28 12:51:58,894 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-28 12:51:58,894 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-28 12:51:58,894 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-28 12:51:58,939 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-28 12:51:58,939 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-28 12:51:58,994 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-28 12:51:59,040 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-28 12:51:59,041 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-28 12:51:59,129 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-28 12:51:59,129 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 12:51:59,174 - INFO -   rullo_triv: 663 documenti
+2025-07-28 12:51:59,215 - INFO -   rullo_sacr: 870 documenti
+2025-07-28 12:51:59,259 - INFO -   rullo_cign: 643 documenti
+2025-07-28 12:51:59,303 - INFO -   monitoring.seismic_monitoring: 37 documenti
+2025-07-28 12:51:59,340 - INFO - ✅ Pulizia automatica completata!
+2025-07-28 12:59:17,570 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-28 12:59:17,570 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-28 12:59:17,570 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-28 12:59:17,572 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-28 12:59:17,572 - INFO - ==================================================
+2025-07-28 12:59:17,574 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 12:59:18,013 - INFO -   rullo_triv: 665 documenti
+2025-07-28 12:59:18,051 - INFO -   rullo_sacr: 874 documenti
+2025-07-28 12:59:18,099 - INFO -   rullo_cign: 645 documenti
+2025-07-28 12:59:18,453 - INFO -   monitoring.seismic_monitoring: 93 documenti
+2025-07-28 12:59:18,495 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-28 12:59:18,538 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-28 12:59:18,539 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-28 12:59:18,581 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-28 12:59:18,581 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-28 12:59:18,629 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-28 12:59:18,632 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-28 12:59:18,632 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-28 12:59:18,679 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-28 12:59:18,679 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-28 12:59:18,722 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-28 12:59:18,760 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-28 12:59:18,761 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-28 12:59:18,838 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-28 12:59:18,839 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 12:59:18,880 - INFO -   rullo_triv: 665 documenti
+2025-07-28 12:59:18,923 - INFO -   rullo_sacr: 874 documenti
+2025-07-28 12:59:18,969 - INFO -   rullo_cign: 645 documenti
+2025-07-28 12:59:19,010 - INFO -   monitoring.seismic_monitoring: 93 documenti
+2025-07-28 12:59:19,050 - INFO - ✅ Pulizia automatica completata!
+2025-07-28 13:20:46,211 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-28 13:20:46,213 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-28 13:20:46,214 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-28 13:20:46,214 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-28 13:20:46,215 - INFO - ==================================================
+2025-07-28 13:20:46,215 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 13:20:46,711 - INFO -   rullo_triv: 673 documenti
+2025-07-28 13:20:46,761 - INFO -   rullo_sacr: 885 documenti
+2025-07-28 13:20:46,816 - INFO -   rullo_cign: 653 documenti
+2025-07-28 13:20:47,108 - INFO -   monitoring.seismic_monitoring: 247 documenti
+2025-07-28 13:20:47,163 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-28 13:20:47,205 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-28 13:20:47,206 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-28 13:20:47,250 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-28 13:20:47,251 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-28 13:20:47,302 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-28 13:20:47,303 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-28 13:20:47,303 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-28 13:20:47,350 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-28 13:20:47,351 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-28 13:20:47,392 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-28 13:20:47,432 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-28 13:20:47,432 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-28 13:20:47,524 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-28 13:20:47,524 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 13:20:47,576 - INFO -   rullo_triv: 673 documenti
+2025-07-28 13:20:47,619 - INFO -   rullo_sacr: 885 documenti
+2025-07-28 13:20:47,662 - INFO -   rullo_cign: 653 documenti
+2025-07-28 13:20:47,720 - INFO -   monitoring.seismic_monitoring: 247 documenti
+2025-07-28 13:20:47,783 - INFO - ✅ Pulizia automatica completata!
+2025-07-28 13:32:57,935 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-28 13:32:57,937 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-28 13:32:57,938 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-28 13:32:57,942 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-28 13:32:57,943 - INFO - ==================================================
+2025-07-28 13:32:57,943 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 13:32:58,389 - INFO -   rullo_triv: 678 documenti
+2025-07-28 13:32:58,432 - INFO -   rullo_sacr: 891 documenti
+2025-07-28 13:32:58,494 - INFO -   rullo_cign: 658 documenti
+2025-07-28 13:32:58,843 - INFO -   monitoring.seismic_monitoring: 338 documenti
+2025-07-28 13:32:58,881 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-28 13:32:58,931 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-28 13:32:58,932 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-28 13:32:58,984 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-28 13:32:58,984 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-28 13:32:59,028 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-28 13:32:59,029 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-28 13:32:59,029 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-28 13:32:59,073 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-28 13:32:59,073 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-28 13:32:59,111 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-28 13:32:59,148 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-28 13:32:59,148 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-28 13:32:59,229 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-28 13:32:59,229 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 13:32:59,279 - INFO -   rullo_triv: 678 documenti
+2025-07-28 13:32:59,327 - INFO -   rullo_sacr: 891 documenti
+2025-07-28 13:32:59,379 - INFO -   rullo_cign: 658 documenti
+2025-07-28 13:32:59,418 - INFO -   monitoring.seismic_monitoring: 338 documenti
+2025-07-28 13:32:59,463 - INFO - ✅ Pulizia automatica completata!
+2025-07-28 20:39:41,684 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-28 20:39:41,686 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-28 20:39:41,687 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-28 20:39:41,687 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-28 20:39:41,687 - INFO - ==================================================
+2025-07-28 20:39:41,687 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 20:39:42,086 - INFO -   rullo_triv: 771 documenti
+2025-07-28 20:39:42,124 - INFO -   rullo_sacr: 1015 documenti
+2025-07-28 20:39:42,163 - INFO -   rullo_cign: 751 documenti
+2025-07-28 20:39:42,382 - INFO -   monitoring.seismic_monitoring: 800 documenti
+2025-07-28 20:39:42,411 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-28 20:39:42,446 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-28 20:39:42,446 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-28 20:39:42,481 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-28 20:39:42,481 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-28 20:39:42,516 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-28 20:39:42,517 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-28 20:39:42,517 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-28 20:39:42,549 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-28 20:39:42,549 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-28 20:39:42,585 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-28 20:39:42,613 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-28 20:39:42,613 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-28 20:39:42,670 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-28 20:39:42,670 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 20:39:42,706 - INFO -   rullo_triv: 771 documenti
+2025-07-28 20:39:42,781 - INFO -   rullo_sacr: 1015 documenti
+2025-07-28 20:39:42,817 - INFO -   rullo_cign: 751 documenti
+2025-07-28 20:39:42,850 - INFO -   monitoring.seismic_monitoring: 800 documenti
+2025-07-28 20:39:42,877 - INFO - ✅ Pulizia automatica completata!
+2025-07-28 20:44:55,117 - INFO - 🔄 Sistema di pulizia automatica avviato
+2025-07-28 20:44:55,117 - INFO - ⏰ Pulizia programmata ogni giorno alle 00:30
+2025-07-28 20:44:55,117 - INFO - 🚀 Esecuzione pulizia iniziale...
+2025-07-28 20:44:55,117 - INFO - 🚀 AVVIO PULIZIA AUTOMATICA DATABASE
+2025-07-28 20:44:55,117 - INFO - ==================================================
+2025-07-28 20:44:55,118 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 20:44:55,435 - INFO -   rullo_triv: 772 documenti
+2025-07-28 20:44:55,470 - INFO -   rullo_sacr: 1017 documenti
+2025-07-28 20:44:55,505 - INFO -   rullo_cign: 752 documenti
+2025-07-28 20:44:55,719 - INFO -   monitoring.seismic_monitoring: 800 documenti
+2025-07-28 20:44:55,747 - INFO - 🧹 Inizio pulizia database rullo...
+2025-07-28 20:44:55,785 - INFO -   rullo_triv: 0 file vecchi trovati
+2025-07-28 20:44:55,785 - INFO -   ✅ rullo_triv: 0 file eliminati
+2025-07-28 20:44:55,820 - INFO -   rullo_sacr: 0 file vecchi trovati
+2025-07-28 20:44:55,820 - INFO -   ✅ rullo_sacr: 0 file eliminati
+2025-07-28 20:44:55,854 - INFO -   rullo_cign: 0 file vecchi trovati
+2025-07-28 20:44:55,854 - INFO -   ✅ rullo_cign: 0 file eliminati
+2025-07-28 20:44:55,854 - INFO - 🧹 Inizio pulizia database monitoring...
+2025-07-28 20:44:55,883 - INFO -   seismic_monitoring: 0 record vecchi
+2025-07-28 20:44:55,883 - INFO -   ✅ seismic_monitoring: 0 record eliminati
+2025-07-28 20:44:55,916 - INFO -   ✅ detection_results: 0 record eliminati
+2025-07-28 20:44:55,945 - INFO -   ✅ triangulation_results: 0 record eliminati
+2025-07-28 20:44:55,945 - INFO - 🧹 Inizio pulizia database seismic_monitoring...
+2025-07-28 20:44:56,000 - INFO - 📊 STATISTICHE DOPO PULIZIA:
+2025-07-28 20:44:56,000 - INFO - 📊 STATISTICHE DATABASE:
+2025-07-28 20:44:56,036 - INFO -   rullo_triv: 772 documenti
+2025-07-28 20:44:56,073 - INFO -   rullo_sacr: 1017 documenti
+2025-07-28 20:44:56,109 - INFO -   rullo_cign: 752 documenti
+2025-07-28 20:44:56,137 - INFO -   monitoring.seismic_monitoring: 800 documenti
+2025-07-28 20:44:56,166 - INFO - ✅ Pulizia automatica completata!

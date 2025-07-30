@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Sismica - Stazioni Principali</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 20px;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 { 
+            color: #2c3e50;
+            margin-top: 30px;
+        }
+        table { 
+            border-collapse: collapse; 
+            margin: 20px 0;
+            width: 100%;
+            max-width: 100%;
+            box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+        }
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 12px 15px; 
+            text-align: left;
+        }
+        th { 
+            background: #2c3e50; 
+            color: white;
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .epicentro { 
+            background: #f8f9fa; 
+            padding: 20px; 
+            border-radius: 8px; 
+            margin: 20px 0;
+            border-left: 5px solid #2c3e50;
+        }
+        .status-ok {
+            color: #27ae60;
+            font-weight: 600;
+        }
+        .status-warning {
+            color: #f39c12;
+            font-weight: 600;
+        }
+        .status-error {
+            color: #e74c3c;
+            font-weight: 600;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .map-container {
+            margin: 20px 0;
+            height: 400px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ddd;
+        }
+        .last-update {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <h1>Monitoraggio Sismico in Tempo Reale</h1>
+    
+    <h2>Stato Stazioni Principali</h2>
+    <table>
+        <tr>
+            <th>Stazione</th>
+            <th>Dati</th>
+            <th>Evento</th>
+            <th>P-pick</th>
+            <th>Rullo</th>
+        </tr>
+        
+                        <tr>
+                            <td><strong>CIGN</strong> - Sant'Elia a Pianisi</td>
+                            <td class="status-ok">OK</td>
+                            <td class="status-ok">SI</td>
+                            <td>9.79s</td>
+                            <td><a href="rullo_CIGN.html" target="_blank">Visualizza Rullo</a></td>
+                        </tr>
+                        <tr>
+                            <td><strong>TRIV</strong> - Trivento</td>
+                            <td class="status-ok">OK</td>
+                            <td class="status-ok">SI</td>
+                            <td>40.24s</td>
+                            <td><a href="rullo_TRIV.html" target="_blank">Visualizza Rullo</a></td>
+                        </tr>
+                        <tr>
+                            <td><strong>SACR</strong> - S. Croce del Sannio</td>
+                            <td class="status-ok">OK</td>
+                            <td class="status-ok">SI</td>
+                            <td>0.00s</td>
+                            <td><a href="rullo_SACR.html" target="_blank">Visualizza Rullo</a></td>
+                        </tr>
+    </table>
+    
+    
+                        <h3>Ultimo Epicentro Calcolato</h3>
+                        <div class="epicentro">
+                            <b>Data/Ora:</b> 2025-07-26T19:51:31.664159<br>
+                            <b>Latitudine:</b> 42.052478750000006<br>
+                            <b>Longitudine:</b> 14.181563125<br>
+                            <b>Stazioni usate:</b> TRIV, SACR, CIGN, ASSB, BSSO, CAMP, CESI, LOCA, LPEL, MIDA, MRLC, MSAG, NRCA, POFI, SGRT, TREM<br>
+                        </div>
+                        
+    
+    <div class="map-container">
+        <p>Mappa delle stazioni sismiche (in sviluppo)</p>
+    </div>
+    
+    <div class="last-update">
+        Ultimo aggiornamento: 2025-07-26 19:51:45
+    </div>
+</body>
+</html>

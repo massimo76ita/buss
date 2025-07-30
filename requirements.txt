@@ -1,0 +1,6 @@
+obspy
+pymongo
+matplotlib
+numpy
+schedule
+python-telegram-bot 
